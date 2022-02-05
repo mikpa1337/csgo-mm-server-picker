@@ -16,6 +16,10 @@
     "cityname": "Dubai, UAE"
   },
   {
+    "IATA": "dfw",
+    "cityname": "Dallas, USA"
+  },
+  {
     "IATA": "eat",
     "cityname": "Wenatchee, États-Unis"
   },
